@@ -1,0 +1,23 @@
+name: HomePlugin
+version: '${project.version}'
+main: me.commandkind.homeplugin.homeplugin
+api-version: '1.20'
+commands:
+  setHome:
+    description: Sets a home at you current position!
+    usage: /setHome <Name>
+
+  Homes:
+    description: Shows a list of your homes!
+    usage: /homes <Name>
+    aliases:
+      - TpHome
+      - TeleportHome
+
+  ResetHomes:
+    description: Resets all Homes!
+    usage: /resethomes <Name>
+
+  RemoveHome:
+    description: Resets all Homes!
+    usage: /removeHomes <Name>

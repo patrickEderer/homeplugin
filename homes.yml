@@ -1,0 +1,19 @@
+00d4a63e-2ce0-4f1a-a83f-593a7ac5ac91:
+  Home 1:
+    Material: BEACON
+    Location:
+      x: 206.4071422014378
+      y: 184.0
+      z: 446.05322572556946
+      yaw: 103.109436
+      pitch: 22.217665
+      world: world
+  Main:
+    Material: STONE
+    Location:
+      x: 207.90639305322216
+      y: 184.0
+      z: 443.0452582678615
+      yaw: -154.60608
+      pitch: 34.072266
+      world: world
